@@ -1,0 +1,11 @@
+# Resultados grandes
+*.jtl
+*.log
+*.tmp
+
+# JMeter
+jmeter.log
+
+# Sistema
+.DS_Store
+Thumbs.db
